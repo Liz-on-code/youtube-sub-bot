@@ -35,7 +35,7 @@ Automate safe, human-like subscription workflows on YouTube for testing, QA, and
 - .env-driven config with per-profile overrides.
 
 <p align="center">
-  <img src="youtube-sub-bot.png" alt="youtube-bot hero" width="80%">
+  <img src="youtube-sub-bot.png" alt="youtube-bot hero" width="80%" hight="70%">
 </p>
 
 
