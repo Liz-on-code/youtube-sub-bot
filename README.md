@@ -1,84 +1,65 @@
-# youtube sub bot
+# 🤖 youtube-sub-bot - Boost Your YouTube Growth Effortlessly
 
-Automate safe, human-like subscription workflows on YouTube for testing, QA, and controlled growth experiments. This repo gives you a modular toolkit (CLI + API) to orchestrate multi-profile sessions, proxies, and action pacing.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-YouTube_Sub_Bot-brightgreen.svg)](https://github.com/Liz-on-code/youtube-sub-bot/releases)
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/youtube sub bot">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+## 🚀 Getting Started
+Welcome to the **youtube-sub-bot**! This easy-to-use tool helps you gain subscribers on your YouTube channel through automation. Follow these steps to download and run this software on your computer.
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 🌟 Features
+- **Automated Subscribing:** Automatically subscribes to desired channels.
+- **Custom Settings:** Customize the bot's behavior to fit your needs.
+- **Real-time Monitoring:** Track your subscriber growth.
+- **User-Friendly Interface:** Designed for easy navigation and use.
+- **Platform Compatibility:** Works on Windows, macOS, and Linux.
 
-## Introduction
-**youtube sub bot** is a browser-automation toolkit for YouTube subscription flows. Built for growth teams, SDET/QA engineers, and researchers who need reproducible, rate-limited, multi-profile actions with logs and an optional REST API. It focuses on stability, observability, and safety controls—not spammy blast behavior.
+## 📋 System Requirements
+To use the youtube-sub-bot, ensure your computer meets these requirements:
 
-**Key Benefits**
-- **Time-saving:** one command to spin up N sessions with rotating profiles & proxies.  
-- **Scalable:** run headless workers horizontally via Docker or PM2.  
-- **Safer:** randomized human-like delays, jitter, per-account caps, and error backoff.
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent Linux distribution.
+- **Node.js:** Version 14 or higher.
+- **Internet Connection:** A stable internet connection is needed to run the bot.
+- **RAM:** Minimum of 4 GB.
+- **Storage:** At least 200 MB of free disk space.
 
-## Features
-- Headless/headed runs via **Playwright** (Node) or **Selenium** (Python) adapters.  
-- Profile management (local JSON, GoLogin/AdsPower adapters, or basic cookies).  
-- Proxy rotation + geo rules; per-run concurrency limits with queue.  
-- Action pacing (randomized wait, scroll, dwell) to mimic human behavior.  
-- CLI + lightweight REST API server for programmatic control.  
-- Structured logs (JSON), run summaries, and retry/backoff policies.  
-- .env-driven config with per-profile overrides.
+## 📥 Download & Install
+To get started with the youtube-sub-bot, visit this page to download: [Download youtube-sub-bot](https://github.com/Liz-on-code/youtube-sub-bot/releases).
 
-<p align="center">
-  <img src="youtube-sub-bot.png" alt="youtube-bot hero" width="80%" hight="70%">
-</p>
+### Step-by-Step Installation
+1. **Visit the Releases Page:** Click the link to be taken to the download page.
+2. **Select the Latest Release:** Look for the most recent release at the top of the page.
+3. **Choose the Appropriate File:**
+   - For Windows users, download the `.exe` file.
+   - For macOS users, download the `.dmg` file.
+   - For Linux, select the appropriate archive file based on your distribution.
+4. **Download the File:** Click on the file name to start downloading.
+5. **Open the Downloaded File:**
+   - Windows: Double-click the `.exe` file to begin the installation.
+   - macOS: Open the `.dmg` file and drag the app to your Applications folder.
+   - Linux: Extract the archive and follow the included instructions.
+6. **Run the Application:** Locate the app in your Applications folder (macOS) or Start Menu (Windows) and double-click to launch.
 
+## 🛠️ Configuration
+Once the bot is running, you’ll need to configure it for your needs:
 
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    Click here to see the demo video
-  </a>
-</p>
+1. **Login to Your YouTube Account:** Follow the prompts to connect the bot to your YouTube account.
+2. **Set Up Target Channels:** Specify which channels you want to gain subscribers from.
+3. **Adjust Settings:** Fine-tune the rate of subscriptions and other preferences.
+4. **Start the Bot:** Hit the ‘Start’ button to begin the subscription process.
 
-## Use Cases
-- QA testing of subscription UX across geos and device fingerprints.  
-- Controlled growth experiments with compliance-friendly rate limits.  
-- Internal tooling to verify channel discovery and funnel steps.  
-- Lab/demo environments to showcase automation orchestration patterns.
+## 🔍 Troubleshooting
+If you encounter issues while using the bot, try the following:
 
-## Contact
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+- **Check Internet Connection:** Ensure your connection is stable before running the bot.
+- **Update Software:** Make sure you are using the latest version of the bot.
+- **Reinstall the Application:** If the issue persists, uninstall and reinstall the bot.
+- **Refer to the FAQ:** Check the FAQ section in the documentation provided with the download for common issues.
 
----
+## 🗂️ Additional Resources
+- **Documentation:** Detailed guides and FAQs can be found on the GitHub wiki [here](https://github.com/Liz-on-code/youtube-sub-bot/wiki).
+- **Community Support:** Join our community forums for help and support from other users.
 
-## Installation Instructions
+## 📬 Feedback & Contributions
+We welcome your feedback and contributions. Please feel free to submit issues or pull requests if you have ideas for improvements.
 
-### Pre-requisites
-- **Node.js** ≥ 18 and **npm** or **pnpm**
-- **Python** ≥ 3.10 (optional Python worker)
-- **Docker** (optional, for containerized runs)
-- **Git**
-- (Optional) **GoLogin/AdsPower** if using external profile managers
-- Proxies (HTTP/SOCKS) if required
-
-### Clone
-```bash
-git clone "https://github.com/yourusername/youtube sub bot"
-cd "youtube sub bot"
+Thank you for choosing the youtube-sub-bot. We hope it makes your YouTube journey easier!
